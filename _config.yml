@@ -1,10 +1,17 @@
-title: student to teacher
+
 theme: minima
 author: GitHub User
 email: thernaes74@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   This shows data for each process, including memory usage. The display is updated.
 You can use google to get more details of the information; in practice there are difference between different versions.
+
+
+---
+title: "student to teacher"
+date: 2021-05-23
+---
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
