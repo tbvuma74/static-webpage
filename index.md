@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "teaching and learning"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Lets talk about it
