@@ -1,7 +1,7 @@
 ---
 title: "student to teacher"
 date: 2021-05-23
----
+
 theme: minima
 author: GitHub User
 email: thernaes74@outlook.com
@@ -18,3 +18,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
