@@ -1,4 +1,7 @@
-
+---
+title: "student to teacher"
+date: 2021-05-23
+---
 theme: minima
 author: GitHub User
 email: thernaes74@outlook.com
@@ -7,10 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 You can use google to get more details of the information; in practice there are difference between different versions.
 
 
----
-title: "student to teacher"
-date: 2021-05-23
----
+
 
 
 # social links
